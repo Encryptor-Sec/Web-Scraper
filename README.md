@@ -52,7 +52,7 @@ The Developer of Web Scraper will not be held responsible if the tool is used wi
 
 ***
 #### INSTALLATION :
-Web Scraper requires Python 3.7 or higer version to run.
+Web Scraper requires Python 3.7 or higher version to run.
 ```
 $ git clone https://github.com/Encryptor-Sec/Web-Scraper.git
 ```
