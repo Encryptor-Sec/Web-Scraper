@@ -1,3 +1,5 @@
 # Web Scraper
 ##### _A Melange of Web Tools for Web Hacking_
-<img src="Images/Logo.png" >
+<p align="center">
+  <img  width="300" src="Images/Logo.png" />
+</p>
