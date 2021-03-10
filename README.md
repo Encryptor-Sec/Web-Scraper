@@ -69,40 +69,25 @@ $ python3 web_scraper.py
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
 <img src=https://github.com/Encryptor-Sec/Web-Scraper/blob/main/Images/Tool_image.PNG>
 </p>
 
-
-
+The tool will ask to Enter a target for assesment. You can either put IP address of the target or the Domain name
+```
+Enter Target Address [Example.com / IP] : google.com
+```
+ Then the tool will check if the target phyically exists or not and it will show the target status [Live / Down]
  
-
+ Then it will prompt you to choose a particular option for assesing the target
 
 
 ***
 #### LICENSE
 [MIT-License](LICENSE)
 ***
-
-
-
+#### More suggestions and contributions are highly appreciated to make this tool better.
+### _STAY SAFE, ACT SMART_
 ### Hit Me Up
 [![Twitter ](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_encryptor_)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xhackerboyy)
