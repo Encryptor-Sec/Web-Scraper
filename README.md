@@ -20,8 +20,53 @@
 The Developer of Web Scraper will not be held responsible if the tool is used with malicious or criminal intent. Use at your own risk !
 
 *** 
-### Uses of Web Scraper :
+#### USES OF WEB SCRAPER :
+- This tool could be used for web hacking
+- You can also perform Reconassiance using this tool
+- Can be helpful for Bug Bounty 
+- Can be used for scraping sensitive information
+
 ***
+#### FEATURES :
+
+ 1. Find ASN
+ 2. HTTP Header
+ 3. Find Subdomain
+ 4. Find Web Technology
+ 5. Find Admin Panel
+ 6. Find Directories
+ 7. Whois Information
+ 8. Port Scan
+ 9. TCP Scan
+ 10. UDP Scan
+ 11. External Links
+ 12. Banner Grab
+ 13. Subnet Lookup
+ 14. Reverse IP Lookup
+ 15. Geo-Location
+ 16. DNS Lookup
+ 17. Trace Route
+ 18. Firewall Detect
+ 19. Vulnerability Scan
+ 20. Zone Transfer  
+
+***
+#### INSTALLATION :
+Web Scraper requires Python 3.7 or higer version to run.
+```
+$ git clone https://github.com/Encryptor-Sec/Web-Scraper.git
+```
+#### REQUIREMENTS :
+Please install the required libraries in order to run the tool
+```
+$ pip install -r requirements.txt
+```
+
+#### USAGE :
+The tool can be executed by running the below commannd
+```
+$ python3 web_scraper.py
+```
 
 
 
@@ -41,12 +86,9 @@ The Developer of Web Scraper will not be held responsible if the tool is used wi
 
 
 
-
-
-
-
-
-
+<p align="center">
+<img src=https://github.com/Encryptor-Sec/Web-Scraper/blob/main/Images/Tool_image.PNG>
+</p>
 
 
 
@@ -54,7 +96,10 @@ The Developer of Web Scraper will not be held responsible if the tool is used wi
 
 
 
-
+***
+#### LICENSE
+[MIT-License](LICENSE)
+***
 
 
 
