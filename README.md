@@ -11,12 +11,16 @@
 <img src=https://img.shields.io/badge/OS-Linux-yellow>
 </p>
 <p align="center">
-    <h3 align="center"> Web Scraper is a Python based Tool for webhacking and assesment. Web Scraper is a cluster of 20 most used tools to execute attacks from one click </h3>
+    <h3 align="center"> Web Scraper is a Python based Tool for web hacking and assesment. Web Scraper is a cluster of 20 most used tools to execute attacks from single click </h3>
 </p>
 
 ***
+#### DISCLAIMER :
 
+The Developer of Web Scraper will not be held responsible if the tool is used with malicious or criminal intent. Use at your own risk !
 
+*** 
+### Uses of Web Scraper :
 ***
 
 
