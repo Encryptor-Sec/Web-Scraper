@@ -4,11 +4,12 @@
   <img  width="250" src="Images/Logo.png" />
 </p>
 
-![](https://img.shields.io/badge/Made%20with-Python-blue)
-![](https://img.shields.io/badge/Python-3.7-green)
-![](https://img.shields.io/badge/Version-1.0-yellowgreen)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<p align="center">
+<img src=https://img.shields.io/badge/Made%20with-Python-blue>
+<img src=https://img.shields.io/badge/Python-3.7-green>
+<img src=https://img.shields.io/badge/Version-1.0-yellowgreen>
+<img src=https://img.shields.io/badge/OS-Linux-yellow>
+</p>
 <p align="center">
     <h3 align="center"> Web Scraper is a Python based Tool for webhacking and assesment. Web Scraper is a cluster of 20 most used tools to execute attacks from one click </h3>
 </p>
