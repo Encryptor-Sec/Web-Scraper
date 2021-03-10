@@ -3,4 +3,58 @@
 <p align="center">
   <img  width="250" src="Images/Logo.png" />
 </p>
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+![](https://img.shields.io/badge/Made%20with-Python-blue)
+![](https://img.shields.io/badge/Python-3.7-green)
+![](https://img.shields.io/badge/Version-1.0-yellowgreen)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<p align="center">
+    <h3 align="center"> Web Scraper is a Python based Tool for webhacking and assesment. Web Scraper is a cluster of 20 most used tools to execute attacks from one click </h3>
+</p>
+
+***
+
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+### Hit Me Up
+[![Twitter ](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_encryptor_)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xhackerboyy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathyaprakashsahoo)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.cyberbuddy.co.in)
