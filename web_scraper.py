@@ -106,8 +106,7 @@ def option():
 		while True :
 			uni_cond = input("Are you sure (y/n) : ")
 			if uni_cond == str('y' or 'Y'):
-				os.system("cd .. && rm -rf Web\ Scraper")
-				Exit()
+				os.system("cd .. && rm -rf Web-Scraper")
 			elif uni_cond == str('n' or 'N'):
 				os.system("clear")
 				print(logo)
