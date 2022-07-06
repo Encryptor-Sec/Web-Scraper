@@ -67,7 +67,7 @@ Jinja2==2.10.1
 jsbeautifier==1.6.4
 keyring==18.0.1
 keyrings.alt==3.2.0
-lxml==4.4.1
+lxml==4.9.1
 lz4==2.1.10+dfsg
 Mako==1.0.7
 MarkupSafe==1.1.0
