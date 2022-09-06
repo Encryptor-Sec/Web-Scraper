@@ -69,7 +69,7 @@ keyring==18.0.1
 keyrings.alt==3.2.0
 lxml==4.4.1
 lz4==2.1.10+dfsg
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 marshmallow==3.0.0b3
 marshmallow-sqlalchemy==0.14.1
