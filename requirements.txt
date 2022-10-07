@@ -76,7 +76,7 @@ marshmallow-sqlalchemy==0.14.1
 mimerender==0.6.0
 netaddr==0.7.19
 nplusone==1.0.0
-numpy==1.16.5
+numpy==1.22.2
 olefile==0.46
 packaging==19.1
 paramiko==2.6.0
