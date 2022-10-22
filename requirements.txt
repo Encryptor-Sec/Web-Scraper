@@ -71,12 +71,12 @@ lxml==4.4.1
 lz4==2.1.10+dfsg
 Mako==1.0.7
 MarkupSafe==1.1.0
-marshmallow==3.0.0b3
+marshmallow==3.0.0b9
 marshmallow-sqlalchemy==0.14.1
 mimerender==0.6.0
 netaddr==0.7.19
 nplusone==1.0.0
-numpy==1.16.5
+numpy==1.22.2
 olefile==0.46
 packaging==19.1
 paramiko==2.6.0
@@ -89,7 +89,7 @@ peepdf==0.4.2
 pefile==2019.4.18
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==6.2.0
+Pillow==9.0.1
 plaster==1.0
 plaster-pastedeploy==0.5
 prettytable==0.7.2
@@ -166,7 +166,7 @@ uTidylib==0.5
 venusian==1.2.0
 waitress==1.2.0b2
 wcwidth==0.1.7
-webargs==5.1.2
+webargs==5.5.3
 webencodings==0.5.1
 WebOb==1.8.5
 websocket-client==0.53.0
