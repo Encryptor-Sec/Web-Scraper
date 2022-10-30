@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 attrs==18.2.0
 autobahn==17.10.1
 Automat==0.6.0
-Babel==2.6.0
+Babel==2.9.1
 backports-abc==0.5
 backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
@@ -63,7 +63,7 @@ IPy==0.83
 ipython==5.8.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsbeautifier==1.6.4
 keyring==18.0.1
 keyrings.alt==3.2.0
@@ -80,7 +80,7 @@ numpy==1.16.5
 olefile==0.46
 packaging==19.1
 paramiko==2.6.0
-passlib==1.7.1
+passlib==1.7.3
 Paste==3.2.2
 PasteDeploy==2.0.1
 PasteScript==2.0.2
@@ -174,7 +174,7 @@ WebTest==2.0.32
 Werkzeug==0.16.0
 wifite==2.2.5
 wsaccel==0.6.2
-WTForms==2.2.1
+WTForms==2.3.0
 zope.component==4.3.0
 zope.deprecation==4.4.0
 zope.event==4.2.0
