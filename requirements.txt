@@ -26,7 +26,7 @@ Cython==0.29.14
 dbus-python==1.2.12
 decorator==4.3.0
 deprecation==2.0.6
-Django==1.11.23
+Django==3.2.15
 dnspython==1.16.0
 EditorConfig==0.12.1
 Elixir==0.7.1
@@ -64,7 +64,7 @@ ipython==5.8.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
 Jinja2==2.10.1
-jsbeautifier==1.6.4
+jsbeautifier==1.14.1
 keyring==18.0.1
 keyrings.alt==3.2.0
 lxml==4.4.1
@@ -161,7 +161,7 @@ txaio==2.10.0
 typing==3.6.6
 u-msgpack-python==2.1
 Unidecode==1.1.1
-urllib3==1.24.1
+urllib3==1.26.5
 uTidylib==0.5
 venusian==1.2.0
 waitress==1.2.0b2
