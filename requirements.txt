@@ -1,7 +1,7 @@
 alembic==1.0.11.dev0
 asn1crypto==0.24.0
 attrs==18.2.0
-autobahn==17.10.1
+autobahn==20.12.3
 Automat==0.6.0
 Babel==2.6.0
 backports-abc==0.5
@@ -63,7 +63,7 @@ IPy==0.83
 ipython==5.8.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsbeautifier==1.6.4
 keyring==18.0.1
 keyrings.alt==3.2.0
