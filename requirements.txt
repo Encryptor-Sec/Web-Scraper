@@ -60,7 +60,7 @@ impacket==0.9.20
 incremental==16.10.1
 ipaddress==1.0.17
 IPy==0.83
-ipython==5.8.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
 Jinja2==2.10.1
