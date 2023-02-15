@@ -171,7 +171,7 @@ webencodings==0.5.1
 WebOb==1.8.5
 websocket-client==0.53.0
 WebTest==2.0.32
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wifite==2.2.5
 wsaccel==0.6.2
 WTForms==2.2.1
