@@ -36,7 +36,7 @@ faradaysec==3.9.3
 feedparser==5.2.1
 filedepot==0.5.2
 filteralchemy==0.1.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-BabelEx==0.9.3
 Flask-Classful==0.14.1
 Flask-KVSession==0.6.2
