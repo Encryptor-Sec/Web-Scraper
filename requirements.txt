@@ -151,7 +151,7 @@ sqlparse==0.2.4
 syslog-rfc5424-formatter==1.2.2
 Tempita==0.5.2
 termcolor==1.1.0
-tornado==5.1.1
+tornado==6.3.3
 tqdm==4.28.1
 traitlets==4.3.3
 translationstring==1.3
