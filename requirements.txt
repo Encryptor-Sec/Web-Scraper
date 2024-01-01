@@ -93,7 +93,7 @@ Pillow==6.2.0
 plaster==1.0
 plaster-pastedeploy==0.5
 prettytable==0.7.2
-prompt-toolkit==1.0.15
+prompt-toolkit==3.0.13
 psycopg2==2.8.4
 py-ubjson==0.14.0
 pyasn1==0.4.2
