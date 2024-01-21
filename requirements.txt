@@ -89,7 +89,7 @@ peepdf==0.4.2
 pefile==2019.4.18
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==6.2.0
+Pillow==10.2.0
 plaster==1.0
 plaster-pastedeploy==0.5
 prettytable==0.7.2
