@@ -27,7 +27,7 @@ dbus-python==1.2.12
 decorator==4.3.0
 deprecation==2.0.6
 Django==1.11.23
-dnspython==1.16.0
+dnspython==2.6.0rc1
 EditorConfig==0.12.1
 Elixir==0.7.1
 entrypoints==0.3
