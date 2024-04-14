@@ -55,7 +55,7 @@ html2text==2019.8.11
 html5lib==1.0.1
 hupper==1.5
 hyperlink==17.3.1
-idna==2.6
+idna==3.7
 impacket==0.9.20
 incremental==16.10.1
 ipaddress==1.0.17
