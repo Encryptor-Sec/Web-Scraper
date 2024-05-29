@@ -156,7 +156,7 @@ tqdm==4.28.1
 traitlets==4.3.3
 translationstring==1.3
 trollius==2.0.1
-Twisted==18.9.0
+Twisted==23.10.0rc1
 txaio==2.10.0
 typing==3.6.6
 u-msgpack-python==2.1
@@ -180,3 +180,4 @@ zope.deprecation==4.4.0
 zope.event==4.2.0
 zope.hookable==4.0.4
 zope.interface==4.6.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
