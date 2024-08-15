@@ -168,7 +168,7 @@ waitress==1.2.0b2
 wcwidth==0.1.7
 webargs==5.1.2
 webencodings==0.5.1
-WebOb==1.8.5
+WebOb==1.8.8
 websocket-client==0.53.0
 WebTest==2.0.32
 Werkzeug==0.16.0
