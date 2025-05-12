@@ -26,7 +26,7 @@ Cython==0.29.14
 dbus-python==1.2.12
 decorator==4.3.0
 deprecation==2.0.6
-Django==1.11.23
+Django==4.2.21
 dnspython==1.16.0
 EditorConfig==0.12.1
 Elixir==0.7.1
@@ -36,7 +36,7 @@ faradaysec==3.9.3
 feedparser==5.2.1
 filedepot==0.5.2
 filteralchemy==0.1.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-BabelEx==0.9.3
 Flask-Classful==0.14.1
 Flask-KVSession==0.6.2
@@ -63,7 +63,7 @@ IPy==0.83
 ipython==5.8.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==3.1.6
 jsbeautifier==1.6.4
 keyring==18.0.1
 keyrings.alt==3.2.0
@@ -171,7 +171,7 @@ webencodings==0.5.1
 WebOb==1.8.5
 websocket-client==0.53.0
 WebTest==2.0.32
-Werkzeug==0.16.0
+Werkzeug==3.0.6
 wifite==2.2.5
 wsaccel==0.6.2
 WTForms==2.2.1
