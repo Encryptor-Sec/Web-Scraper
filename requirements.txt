@@ -133,7 +133,7 @@ qrcode==6.1
 repoze.lru==0.7
 requests==2.21.0
 scandir==1.10.0
-scapy==2.4.3
+scapy==2.7.0rc1
 scgi==1.13
 selenium==3.14.1
 service-identity==18.1.0
